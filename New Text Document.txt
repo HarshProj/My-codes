@@ -1,0 +1,5 @@
+int generally takes 4 bytes
+char takes 1 bytes means 8 bit
+float takes 4 bytes 
+double d=34; takes 8 bytes
+bool takes 1 byte
